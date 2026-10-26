@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Piyush 👋
 
-<!--
-**piyush1010/piyush1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring product manager who builds to learn. I design the product, write the spec and build it with AI coding tools (Claude, Codex), then test it on real use.
 
-Here are some ideas to get you started:
+**Featured projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[System Check](https://github.com/piyush1010/figma-system-check)**: a Figma plugin that shows how much of a screen uses your design system (colour tokens and text styles) and suggests the right token for any hard-coded colour.
+  · Figma Plugin API
+- **[EvidenceLens](https://github.com/piyush1010/evidencelens-tprm)**: AI-assisted vendor security reviews with exact evidence quotes, honest "insufficient evidence" answers and a human review queue. Measured on a 12-case test: 7/12 for a keyword baseline vs 12/12 with Gemini.
+  · [Live demo](https://evidencelens-tprm.streamlit.app) · Python, Streamlit, Gemini
+- **[GoalCircle](https://github.com/piyush1010/GoalCircle)**: a social accountability app where you announce goals, post daily proof, join private circles and keep streaks. Designed in Figma with light and dark themes.
+  · [Live](https://goalcircle-ivory.vercel.app) · Next.js, Supabase, Capacitor (Android/iOS)
+
+**How I work**: define the user's problem first, ship a small working version, measure it, and write down what it can't do yet.
+
+📫 piyush.kaushik2@gmail.com
